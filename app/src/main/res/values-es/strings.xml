@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_new_user">Nuevo Usuario</string>
+    <string name="btn_erase_all">Borrar Todo</string>
+    <string name="lbl_name">Nombre</string>
+    <string name="lbl_section">Sección</string>
+    <string name="lbl_technology">Tecnología</string>
+    <string name="lbl_project">Proyecto</string>
+    <string name="lbl_this_is_an_example">Esto es un ejemplo</string>
+    <string name="title_user_name">Por favor, introduce el nombre de usuario</string>
+    <string name="hint_user_name">Nombre</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="title_section">Por favor, selecciona la sección</string>
+    <string name="title_project">Por favor, selecciona los proyectos</string>
+    <string name="rbt_technology">Tecnología</string>
+    <string name="rbt_security">Seguridad</string>
+    <string name="title_erase_all">¿Estás seguro de que deseas borrar todos los usuarios?</string>
+</resources>

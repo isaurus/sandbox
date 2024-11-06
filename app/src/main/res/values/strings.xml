@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">SandBox</string>
+    <string name="lbl_sandbox" translatable="false">SANDBOX</string>
+    <string name="btn_new_user">New User</string>
+    <string name="btn_erase_all">Erase All</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_juan_garcia" translatable="false">Juan García</string>
+    <string name="lbl_section">Section</string>
+    <string name="lbl_technology">Technology</string>
+    <string name="lbl_project">Project</string>
+    <string name="lbl_this_is_an_example">This is an example</string>
+    <string name="title_user_name">Please, introduce user name</string>
+    <string name="hint_user_name">Name</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_next">Next</string>
+    <string name="title_section">Please, choose section</string>
+    <string name="title_project">Please, select project(s)</string>
+    <string name="rbt_technology">Techonology</string>
+    <string name="rbt_marketing" translatable="false">Marketing</string>
+    <string name="rbt_security">Security</string>
+    <string name="chk_wear_os" translatable="false">Wear OS</string>
+    <string name="chk_android" translatable="false">Android</string>
+    <string name="chk_apple" translatable="false">Apple</string>
+    <string name="chk_windows" translatable="false">Windows</string>
+    <string name="title_erase_all">Are you sure you want to delete all users?</string>
+</resources>
